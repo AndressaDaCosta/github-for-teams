@@ -1,2 +1,2 @@
 # github-for-teams
-estudando..
+<img src='https://github.com/AndressaDaCosta/github-for-teams/blob/main/logo.png?raw=true'>
